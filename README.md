@@ -1,4 +1,4 @@
-# Stock Price Prediction: Conventional AI vs. Machine Learning
+# Comparative Analysis of Conventional AI Approaches for Stock Price Prediction: A Case Study on BAC
 
 This repository contains the code and data for a comprehensive study comparing conventional Artificial Intelligence (AI) methods with state-of-the-art Machine Learning (ML) models for stock price prediction. The project focuses on predicting the stock price movements of Bank of America (BAC) using time series data from 2005 to 2022, sourced from Yahoo Finance.
 
