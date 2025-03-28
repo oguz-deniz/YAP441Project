@@ -69,8 +69,8 @@ A set of 13 tradebot agents demonstrates that the optimal trading strategy depen
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/stock-prediction-ai-ml.git
-   cd stock-prediction-ai-ml
+   git clone https://github.com/oguz-deniz/YAP441Project.git
+   cd YAP441Project
 
 2. **Install the required packages:**
   ```bash
